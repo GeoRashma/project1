@@ -1,0 +1,25 @@
+.butterfly{
+    color: darkgoldenrod;
+}
+.butterfly{
+    text-align: center;
+    color: crimson;
+}
+.sky{
+    text-align: center;
+    position:relative;
+    left: 525px;
+}
+.rainbow{
+    text-align: center;
+    color: blue;
+}
+.rain{
+    text-align: center;
+    color: black;
+    position:absolute;
+    left: 600px;
+}
+*{
+    background-color: greenyellow;
+}
